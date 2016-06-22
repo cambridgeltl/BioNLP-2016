@@ -1,0 +1,10 @@
+binding
+catalysis
+morphogenesis
+digestion
+mutagenesis
+growth
+death
+reproduction
+apoptosis
+necrosis

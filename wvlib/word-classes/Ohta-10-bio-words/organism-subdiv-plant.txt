@@ -1,0 +1,10 @@
+fruit
+flower
+leaf
+root
+wood
+branch
+seed
+bud
+stem
+petal

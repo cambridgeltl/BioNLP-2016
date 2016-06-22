@@ -1,0 +1,10 @@
+penicillin
+ampicillin
+streptomycin
+erythromycin
+adriamycin
+vancomycin
+bleomycin
+tetracycline
+cephalosporins
+sulfonamide

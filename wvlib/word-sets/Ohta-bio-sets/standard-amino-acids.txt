@@ -1,0 +1,22 @@
+TARGET	alanine	ALIAS	Ala	ALIAS	A
+TARGET	arginine	ALIAS	Arg	ALIAS	R
+TARGET	asparagine	ALIAS	Asn	ALIAS	N	ALIAS	aspargine
+TARGET	aspartic acid	ALIAS	Asp	ALIAS	D
+TARGET	cysteine	ALIAS	Cys	ALIAS	C
+TARGET	glutamic acid	ALIAS	Glu	ALIAS	E
+TARGET	glutamine	ALIAS	Gln	ALIAS	Q
+TARGET	glycine	ALIAS	Gly	ALIAS	G
+TARGET	histidine	ALIAS	His	ALIAS	H
+TARGET	isoleucine	ALIAS	Ile	ALIAS	I
+TARGET	leucine	ALIAS	Leu	ALIAS	L
+TARGET	lysine	ALIAS	Lys	ALIAS	K
+TARGET	methionine	ALIAS	Met	ALIAS	M
+TARGET	phenylalanine	ALIAS	Phe	ALIAS	F
+TARGET	proline	ALIAS	Pro	ALIAS	P
+TARGET	serine	ALIAS	Ser	ALIAS	S
+TARGET	threonine	ALIAS	Thr	ALIAS	T
+TARGET	tryptophan	ALIAS	Trp	ALIAS	W	ALIAS	tryptophane
+TARGET	tyrosine	ALIAS	Tyr	ALIAS	Y
+TARGET	valine	ALIAS	Val	ALIAS	V
+ACCEPT	selenocysteine	ALIAS	Sec	ALIAS	U
+ACCEPT	pyrrolysine	ALIAS	Pyl	ALIAS	O

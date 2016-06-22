@@ -1,0 +1,13 @@
+anger
+desire
+fear
+happiness
+joy
+love
+pain
+passion
+pleasure
+sadness
+sensitivity
+shame
+wonder

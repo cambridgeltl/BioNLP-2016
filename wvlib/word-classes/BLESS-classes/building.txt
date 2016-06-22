@@ -1,0 +1,9 @@
+castle
+cathedral
+cottage
+hospital
+hotel
+library
+pub
+restaurant
+villa

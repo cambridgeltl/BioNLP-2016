@@ -1,0 +1,14 @@
+aircraft
+airplane
+automobile
+bicycle
+boat
+car
+cruiser
+helicopter
+motorcycle
+pickup
+rocket
+ship
+truck
+van

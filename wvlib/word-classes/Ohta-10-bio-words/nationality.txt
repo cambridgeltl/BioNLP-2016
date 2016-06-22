@@ -1,0 +1,10 @@
+American
+French
+English
+Italian
+Canadian
+Finnish
+Japanese
+Chinese
+Korean
+Australian

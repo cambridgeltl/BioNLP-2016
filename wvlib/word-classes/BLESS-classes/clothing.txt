@@ -1,0 +1,12 @@
+blouse
+cloak
+coat
+dress
+glove
+hat
+jacket
+robe
+scarf
+shirt
+sweater
+vest

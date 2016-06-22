@@ -1,0 +1,16 @@
+beet
+broccoli
+cabbage
+carrot
+cauliflower
+celery
+corn
+cucumber
+garlic
+lettuce
+onion
+parsley
+potato
+radish
+spinach
+turnip

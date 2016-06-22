@@ -1,0 +1,12 @@
+bomb
+cannon
+dagger
+grenade
+gun
+missile
+musket
+pistol
+revolver
+rifle
+spear
+sword

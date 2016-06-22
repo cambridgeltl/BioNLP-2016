@@ -1,0 +1,9 @@
+bed
+bookcase
+chair
+couch
+desk
+dresser
+sofa
+table
+wardrobe

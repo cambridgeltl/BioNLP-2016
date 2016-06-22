@@ -1,0 +1,30 @@
+# source: http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2
+TARGET	Actinobacteria
+TARGET	Aquificae
+TARGET	Armatimonadetes
+TARGET	Bacteroidetes
+TARGET	Caldiserica
+TARGET	Chlorobi
+TARGET	Chlamydiae
+TARGET	Chloroflexi	ALIAS	green non-sulfur bacteria
+TARGET	Chrysiogenetes
+TARGET	Cyanobacteria	ALIAS	blue-green algae
+TARGET	Deferribacteres
+TARGET	Deinococcus-Thermus
+TARGET	Dictyoglomi
+TARGET	Elusimicrobia
+TARGET	Fibrobacteres	ALIAS	Fibrobacter
+TARGET	Firmicutes	ALIAS	Gram-positive bacteria
+TARGET	Acidobacteria
+TARGET	Verrucomicrobia
+TARGET	Fusobacteria
+TARGET	Gemmatimonadetes
+TARGET	Nitrospinae
+TARGET	Nitrospirae
+TARGET	Planctomycetes
+TARGET	Proteobacteria	ALIAS	purple bacteria
+TARGET	Spirochaetes
+TARGET	Synergistetes
+TARGET	Tenericutes
+TARGET	Thermodesulfobacteria
+TARGET	Thermotogae

@@ -1,0 +1,8 @@
+ant
+beetle
+butterfly
+cockroach
+grasshopper
+hornet
+moth
+wasp

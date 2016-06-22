@@ -1,0 +1,17 @@
+architect
+artist
+builder
+constructor
+craftsman
+designer
+developer
+farmer
+inventor
+maker
+manufacturer
+musician
+originator
+painter
+photographer
+producer
+tailor

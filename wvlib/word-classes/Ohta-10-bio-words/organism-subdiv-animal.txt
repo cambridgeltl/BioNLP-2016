@@ -1,0 +1,10 @@
+neck
+limb
+head
+face
+hand
+foot
+leg
+wrist
+gut
+knee

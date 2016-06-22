@@ -1,0 +1,11 @@
+carp
+catfish
+cod
+dolphin
+goldfish
+herring
+mackerel
+salmon
+trout
+tuna
+whale

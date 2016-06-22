@@ -1,0 +1,6 @@
+bag
+bottle
+bowl
+box
+jar
+mug

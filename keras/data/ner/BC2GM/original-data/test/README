@@ -1,0 +1,13 @@
+TESTING DIRECTORY
+-----------------
+
+This directory contains the file test.in with 5,000 sentences for final evaluation.
+Each line of the file consists of an untokenized sentence and is preceded by
+a sentence identifier. The identifiers in this file are random and do not refer
+to PUBMED id.
+
+The "gold standard" of gene mentions for test.in is in the file GENE.eval,
+acceptable variants are in the file ALTGENE.eval.
+
+See the program alt_eval.perl in the train directory for evaluation.
+

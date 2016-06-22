@@ -1,0 +1,5 @@
+asthma
+hepatitis
+tuberculosis
+HIV
+malaria

@@ -1,0 +1,17 @@
+aeon
+date
+day
+epoch
+future
+gestation
+hereafter
+menopause
+moment
+nonce
+period
+quaternary
+today
+tomorrow
+tonight
+yesterday
+yesteryear

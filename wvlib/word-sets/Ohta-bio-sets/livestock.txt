@@ -1,0 +1,28 @@
+# Source: http://en.wikipedia.org/wiki/Livestock#Types
+TARGET	alpaca	ALIAS	alpacas
+TARGET	banteng	ALIAS	bantengs
+TARGET	bison	ALIAS	bisons
+TARGET	camel	ALIAS	camels
+TARGET	cat	ALIAS	cats
+TARGET	cattle
+TARGET	deer	ALIAS	deers
+TARGET	dog	ALIAS	dogs
+TARGET	donkey	ALIAS	donkeys
+TARGET	gayal	ALIAS	gayals
+TARGET	goat	ALIAS	goats
+TARGET	guinea pig	ALIAS	guinea pigs	ALIAS	guinea-pig	ALIAS	guinea-pigs
+TARGET	horse	ALIAS	horses
+TARGET	llama	ALIAS	llamas
+TARGET	mule	ALIAS	mules
+TARGET	pig	ALIAS	pigs
+TARGET	rabbit	ALIAS	rabbits
+TARGET	reindeer
+TARGET	sheep
+TARGET	water buffalo	ALIAS	water buffalos	ALIAS	water buffaloes
+TARGET	yak	ALIAS	yaks
+# additions
+ACCEPT	buffalo	ALIAS	buffalos	ALIAS	buffaloes
+ACCEPT	bull	ALIAS	bulls
+ACCEPT	lamb	ALIAS	lambs
+ACCEPT	ox	ALIAS	oxen
+ACCEPT	zebu	ALIAS	zebus

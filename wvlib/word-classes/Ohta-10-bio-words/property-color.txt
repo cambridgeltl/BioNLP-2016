@@ -1,0 +1,10 @@
+red
+black
+blue
+green
+brown
+yellow
+white
+purple
+silver
+gold

@@ -1,0 +1,10 @@
+platelet
+neuron
+neutrophil
+pericyte
+leukocyte
+lymphocyte
+macrophage
+fibroblast
+melanocyte
+keratinocyte

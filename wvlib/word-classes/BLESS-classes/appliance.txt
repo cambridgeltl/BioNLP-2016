@@ -1,0 +1,11 @@
+dishwasher
+freezer
+fridge
+oven
+phone
+radio
+stereo
+stove
+television
+toaster
+washer

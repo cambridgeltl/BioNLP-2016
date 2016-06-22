@@ -1,0 +1,45 @@
+# Source: http://sig.biostr.washington.edu/projects/fm/ (FMA:5018; bone organ).
+TARGET	atlas	ALIAS	atlases
+TARGET	axis	ALIAS	axes
+TARGET	calcaneus	ALIAS	calcanei	ALIAS	calcanea	ALIAS	calcaneum	ALIAS	calcaneums	ALIAS	calcanea
+TARGET	capitate	ALIAS	capitates
+TARGET	clavicle	ALIAS	clavicles
+TARGET	coccyx	ALIAS	coccyges
+TARGET	ethmoid	ALIAS	ethmoids
+TARGET	femur	ALIAS	femurs	ALIAS	femora
+TARGET	fibula	ALIAS	fibulas	ALIAS	fibulae
+TARGET	hamate	ALIAS	hamates
+TARGET	humerus	ALIAS	humeri
+TARGET	incus	ALIAS	incudes
+TARGET	lunate	ALIAS	lunates
+TARGET	malleus	ALIAS	mallei
+TARGET	mandible	ALIAS	mandibles
+TARGET	maxilla	ALIAS	maxillas	ALIAS	maxillae
+TARGET	patella	ALIAS	patellas	ALIAS	patellae
+TARGET	pisiform	ALIAS	pisiforms
+TARGET	radius	ALIAS	radii	ALIAS	radiuses
+TARGET	rib	ALIAS	ribs
+TARGET	sacrum	ALIAS	sacra	ALIAS	sacrums
+TARGET	scaphoid	ALIAS	scaphoids
+TARGET	scapula	ALIAS	scapulas	ALIAS	scapulae
+TARGET	stapes	ALIAS	stapedes
+TARGET	sternum	ALIAS	sterna	ALIAS	sternums
+TARGET	talus	ALIAS	tali
+TARGET	tibia	ALIAS	tibias	ALIAS	tibiae
+TARGET	trapezium	ALIAS	trapeziums	ALIAS	trapezia
+TARGET	trapezoid	ALIAS	trapezoids
+TARGET	triquetral	ALIAS	triquetrals
+TARGET	ulna	ALIAS	ulnae	ALIAS	ulnas
+TARGET	vertebra	ALIAS	vertebrae	ALIAS	vertebras
+TARGET	vomer	ALIAS	vomers
+# other bones and bone organ parts. TODO: incomplete and non-systematic
+ACCEPT	acetabulum	ALIAS	acetabula	ALIAS	acetabulums
+ACCEPT	condyle	ALIAS	condyles
+ACCEPT	diaphysis	ALIAS	diaphyses
+ACCEPT	malleolus	ALIAS	malleoli
+ACCEPT	metaphysis	ALIAS	metaphyses
+ACCEPT	olecranon	ALIAS	olecranons
+ACCEPT	phalanx	ALIAS	phalanges
+ACCEPT	physis	ALIAS	physes
+ACCEPT	symphysis	ALIAS	symphyses
+ACCEPT	syndesmosis	ALIAS	syndesmoses

@@ -1,0 +1,29 @@
+TARGET	appendix	ALIAS	appendixes
+TARGET	bladder	ALIAS	bladders
+TARGET	brain	ALIAS	brains
+TARGET	esophagus	ALIAS	esophagi
+TARGET	eye	ALIAS	eyes
+TARGET	gallbladder	ALIAS	gallbladders
+TARGET	heart	ALIAS	hearts
+TARGET	kidney	ALIAS	kidneys
+TARGET	liver	ALIAS	livers
+TARGET	lung	ALIAS	lungs
+TARGET	ovary	ALIAS	ovaries
+TARGET	pancreas	ALIAS	pancreases
+TARGET	pituitary	ALIAS	pituitaries
+TARGET	prostate	ALIAS	prostates
+TARGET	skin	ALIAS	skins
+TARGET	spleen	ALIAS	spleens
+TARGET	stomach	ALIAS	stomachs
+TARGET	testis	ALIAS	testes
+TARGET	thymus	ALIAS	thymi
+TARGET	uterus	ALIAS	uteri	ALIAS	uteruses
+# adjectival forms
+ACCEPT	renal
+ACCEPT	ocular
+ACCEPT	hepatic
+ACCEPT	ovarian
+ACCEPT	pancreatic
+ACCEPT	splenic
+ACCEPT	testicular
+ACCEPT	uterine

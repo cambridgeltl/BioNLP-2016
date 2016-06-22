@@ -1,0 +1,10 @@
+Word classes from BLESS (Baroni & Lenci's Evaluation of Semantic
+Similarity) data. Created from BLESS.txt in bless-gems.zip, available at
+https://sites.google.com/site/geometricalmodels/shared-evaluation, with
+
+    cut -f 2 BLESS.txt | sort | uniq | while read c; do cut -f 1,2 BLESS.txt | \
+        egrep $'\t'$c'$' | cut -f 1 | sort | uniq > $c.txt; done
+
+NOTE: these classes are not the primary focus of the BLESS data and
+evaluation using them is not the recommended procedure. See README.txt
+in bless-gems.zip for more information.

@@ -1,0 +1,10 @@
+hippocampus
+retina
+tortuous
+scalp
+aorta
+artery
+vein
+atrium
+larynx
+tympanum
