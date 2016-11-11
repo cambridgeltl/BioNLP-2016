@@ -25,3 +25,6 @@ evaluate.py: perform intrinisic evaluation <br />
 Extrinsic evaluation: (Keras folder: Need either tensorflow or theano installed): <br />
 mlp.py: simple feed-forward Neural Network <br />
 setting.py: parameters for the Neual Network <br />
+
+
+https://drive.google.com/open?id=0BzMCqpcgEJgiUWs0ZnU0NlFTam8
