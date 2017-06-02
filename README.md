@@ -1,11 +1,13 @@
 # BioNLP-2016
-Here contain the scripts and code used in ACL-BioNLP 2016 paper: <br />
-How to Train good Word Embeddings for Biomedical NLP
+
+Here are the scripts, code and vectors for the ACL BioNLP 2016 workshop paper:
+
+Chiu et al. [_How to Train good Word Embeddings for Biomedical NLP_](http://aclweb.org/anthology/W/W16/W16-2922.pdf)
 
 ## API Package
-word2vec: original word2vec from Mikolov (https://code.google.com/archive/p/word2vec/) <br />
-wvlib: lib to read word2vec file (https://github.com/spyysalo/wvlib) <br />
-geniass: lib to segment bioMedical text (http://www.nactem.ac.uk/y-matsu/geniass/)  <br />
+word2vec: original word2vec from Mikolov: <https://code.google.com/archive/p/word2vec/>  
+wvlib: lib to read word2vec file: <https://github.com/spyysalo/wvlib>  
+geniass: lib to segment bioMedical text: <http://www.nactem.ac.uk/y-matsu/geniass/>
 
 ## Scripts
 pre-process.sh: segment and tokenized input text (e.g. raw PubMed or PMC text) <br />
@@ -15,16 +17,18 @@ intrinsicEva.sh: run intrinsic evaluation on UMNSRS and Mayo data-set (input: Di
 ExtrinsicEva.sh: run extrinsic evaluation <br />
 
 ## Code
-Pre-processing: <br />
-tokenize_text.py: tokenized text (need NLTK installed) <br />
-geniass: segment sentence <br />
 
-Intrinsic evaluation: <br />
-evaluate.py: perform intrinisic evaluation <br />
+**Pre-processing**:  
+tokenize_text.py: tokenized text (requires NLTK)  
+geniass: segment sentence  
 
-Extrinsic evaluation: (Keras folder: Need either tensorflow or theano installed): <br />
-mlp.py: simple feed-forward Neural Network <br />
-setting.py: parameters for the Neual Network <br />
+**Intrinsic evaluation:**  
+evaluate.py: perform intrinisic evaluation
 
+**Extrinsic evaluation**: (Keras folder: Need either tensorflow or theano installed):  
+mlp.py: simple feed-forward Neural Network  
+setting.py: parameters for the Neual Network  
 
-https://drive.google.com/open?id=0BzMCqpcgEJgiUWs0ZnU0NlFTam8
+## Word vectors
+
+<https://drive.google.com/open?id=0BzMCqpcgEJgiUWs0ZnU0NlFTam8>
