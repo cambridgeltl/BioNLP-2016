@@ -31,4 +31,4 @@ python tokenize_Text.py $file tokenizeText/$inFilestr
 done
 
 cd tokenizeText/
-cat *.txt > ../combine_tokenized.txt
+cat '*.txt' > ../combine_tokenized.txt
