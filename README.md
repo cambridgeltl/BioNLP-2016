@@ -32,3 +32,7 @@ setting.py: parameters for the Neual Network
 ## Word vectors
 
 <https://drive.google.com/open?id=0BzMCqpcgEJgiUWs0ZnU0NlFTam8>
+
+## License
+
+All data on this page is made available under the Creative Commons Attribution (CC BY) license
