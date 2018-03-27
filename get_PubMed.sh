@@ -4,7 +4,7 @@ mkdir pubmedfiles
 cd pubmedfiles
 
 echo 'Downloading files'
-wget ftp://ftp.ncbi.nlm.nih.gov/pubmed/baseline/*000*.gz
+wget ftp://ftp.ncbi.nlm.nih.gov/pubmed/baseline/*.gz
 
 echo 'Unzipping files.'
 gunzip *.gz
@@ -28,3 +28,7 @@ for file in `ls *.tar.gz`; do tar -xf $file; done
 
 echo 'Removing .tar.gz files.'
 rm *.tar.gz
+
+for folder in */ ; do
+mv $folder/* . && rmdir $folder
+done
