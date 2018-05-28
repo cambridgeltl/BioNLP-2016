@@ -8,7 +8,7 @@ mkdir segmentText
 
 echo 'sentence spliting'
 Dir=$1
-FILES=$(find $Dir -name *.txt)
+FILES=$(find $Dir -name '*.txt')
 
 for file in $FILES
 do
@@ -22,7 +22,7 @@ cd ..
 mkdir tokenizeText
 echo 'Tokenise'
 Dir=geniass/segmentText/
-FILES=$(find $Dir -name *.txt)
+FILES=$(find $Dir -name '*.txt')
 for file in $FILES ; do
 inFilestr=${file##*/}
 echo $inFilestr
@@ -31,4 +31,4 @@ python tokenize_Text.py $file tokenizeText/$inFilestr
 done
 
 cd tokenizeText/
-cat *.txt > ../combine_tokenized.txt
+cat '*.txt' > ../combine_tokenized.txt
